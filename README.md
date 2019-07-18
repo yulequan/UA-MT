@@ -3,7 +3,7 @@ by [Lequan Yu](http://yulequan.github.io), [Shujun Wang](https://emmaw8.github.i
 
 ### Introduction
 
-This repository is for our MICCAI 2019 paper '[Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](XX)'. 
+This repository is for our MICCAI 2019 paper '[Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation](https://arxiv.org/abs/1907.07034)'. 
 
 Coming Soon. 
 
