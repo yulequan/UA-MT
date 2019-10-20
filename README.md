@@ -17,7 +17,7 @@ This repository is based on PyTorch 0.4.1.
    git clone https://github.com/yulequan/UA-MT.git
    cd UA-MT
    ```
-2. Put the data in d`ata/2018LA_Seg_TrainingSet`.
+2. Put the data in `data/2018LA_Seg_TrainingSet`.
    
 3. Train the model:
  
@@ -34,8 +34,7 @@ If UA-MT is useful for your research, please consider citing:
          title={Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation},
          author={Yu, Lequan and Wang, Shujun and Li, Xiaomeng and Fu, Chi-Wing and Heng, Pheng-Ann},
          booktitle = {MICCAI},
-         year = {2019}
-   }
+         year = {2019} }
 
 ### Questions
 
