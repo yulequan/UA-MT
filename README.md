@@ -42,7 +42,7 @@ If UA-MT is useful for your research, please consider citing:
 
 If you use the LA segmentation data, please also consider citing:
 
-   @article{xiong2020global,
+   @inproceedings{xiong2020global,
          title={A Global Benchmark of Algorithms for Segmenting Late Gadolinium-Enhanced Cardiac Magnetic Resonance Imaging},
          author={Xiong, Zhaohan and Xia, Qing and Hu, Zhiqiang and Huang, Ning and Vesal, Sulaiman and Ravikumar, Nishant and Maier, Andreas and Li, Caizi and Tong,          Qianqian and Si, Weixin and others},
          journal={Medical Image Analysis},
